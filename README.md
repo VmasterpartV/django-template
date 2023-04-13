@@ -2,6 +2,14 @@
 
 This is a starter template for Django projects.
 
+## Features
+
+- Django REST Framework for building APIs
+- Swagger for API documentation
+- CORS (Cross-Origin Resource Sharing) support for allowing requests from other domains
+- Environment variables for easy configuration across different environments
+- JWT tokens for secure authentication
+
 ## Prerequisites
 
 - Python 3.10 or later
